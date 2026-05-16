@@ -4,16 +4,7 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/   
-    
-  - title: "Blog"
-    url: /posts/   
-    
-  - title: "Startups & Initiatives"
-    url: /startups/
+    url: /talks/        
     
   - title: "Projects"
     url: /projects/
